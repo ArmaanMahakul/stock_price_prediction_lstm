@@ -38,15 +38,11 @@ Predicting stock prices is a challenging task due to the volatile and complex na
 
 ## Usage
 
-1) To directly access the website paste this link on your browser:
-
-https://stockpricepredictionlstmarmaan.streamlit.app/
-
-2) Else to run the the project form terminal type in this on your directory:
+1) Else to run the the project form terminal type in this on your directory:
 
        streamlit run web_app.py
 
-3) If you wish to train the entire model from strach then do the following steps:
+2) If you wish to train the entire model from strach then do the following steps:
 
     - **Data Preparation**: Ensure your dataset is formatted correctly in Stock_Symbols.csv
     - **Model Preparation**: Open the Jupter Notebook (**best_model_features.ipynb**) and run it and once it is completed you will           have your final model details.
