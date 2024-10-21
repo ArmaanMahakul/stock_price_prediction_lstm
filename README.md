@@ -1,8 +1,6 @@
 # Stock Price Prediction using LSTM
 
 This repository contains a project for predicting stock prices using Long Short-Term Memory (LSTM) networks. The project utilizes historical stock data to forecast future prices using deep learning techniques. 
-Check out the streamlit website for this project on:
-https://stockpricepredictionlstmarmaan.streamlit.app/
 
 ## Table of Contents
 - [Introduction](#introduction)
